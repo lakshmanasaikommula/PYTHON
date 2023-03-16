@@ -1,0 +1,1 @@
+Write a code to print cool dude if divisible by 7 and 11

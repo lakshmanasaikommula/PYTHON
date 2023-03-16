@@ -1,0 +1,1 @@
+'''Write a code to Count the frequency of the characters'''

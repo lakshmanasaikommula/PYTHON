@@ -1,0 +1,1 @@
+.Write a code print the numbers that have remainder 4 when divided by 5 in the given list?
